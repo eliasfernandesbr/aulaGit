@@ -1,3 +1,2 @@
 Curso GIT, entendendo versionamento definitivamente.
-
-Dei um hardreset para primeira versão.
+Sistema com GIT alterado e atualizado.
